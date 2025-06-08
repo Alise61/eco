@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-stroke-shadow {
+    font-size: 4.1rem;
+   -webkit-text-stroke: 2px #ffffffd3; /* Утолщенная бело-прозрачная обводка */
+  color: transparent;
+  margin-bottom: 0px;
+  line-height: 60px;
+  text-shadow: 0 0px 30px rgb(0, 0, 0);      /* Дополнительное свечение */
+}
+
+.menu {
+  margin-top: 10px;
+  width: 150px;
+}
+
+.testi {
+  margin: 10px;
+  font-size: 20px;
+  line-height: 30px;
+  padding-bottom: 10px;
+}
+.testi h3 {
+  font-size: 26px;
+}
