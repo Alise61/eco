@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eco/static/css/main.83f57c9a.css",
+    "main.js": "/eco/static/js/main.f07ddc8f.js",
+    "static/js/453.d3805ddf.chunk.js": "/eco/static/js/453.d3805ddf.chunk.js",
+    "index.html": "/eco/index.html",
+    "main.83f57c9a.css.map": "/eco/static/css/main.83f57c9a.css.map",
+    "main.f07ddc8f.js.map": "/eco/static/js/main.f07ddc8f.js.map",
+    "453.d3805ddf.chunk.js.map": "/eco/static/js/453.d3805ddf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f57c9a.css",
+    "static/js/main.f07ddc8f.js"
+  ]
+}
